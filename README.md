@@ -18,6 +18,12 @@ In this project, we are able to:
 2. Swift 5 - Programming Language
 3. UIKit - Interface Builder
 
+## Updates
+
+07/13/2022:
+
+  - added constraints and stack views on the layout
+
 ## Notes
 
 This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
